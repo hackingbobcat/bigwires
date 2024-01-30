@@ -1,4 +1,3 @@
-# bigwires
 <center><h1>Why the BIG WIRES Act?  An Exploratory Data Analysis</h1>
 <h2>Eric Lagally</h2>
 <h2>ericlagally@gmail.com</h2>
@@ -78,6 +77,7 @@ I therefore explored the carbon-equivalent emissions of the electricity generati
 The top five and bottom five states with the most emissive electricity generation in 2022 were:
 
 Top 5 Least Emissive Electricity Generation States:
+
 |    State     |    Percent Emissive Generation |
 |:------------:|:------------------------------:|
 |   WA         |         16.9                   |
@@ -87,6 +87,7 @@ Top 5 Least Emissive Electricity Generation States:
 |   OR         |         32.7                   |
 
 Top 5 Most Emissive Electricity Generation States:
+
 |    State     |    Percent Emissive Generation |
 |:------------:|:------------------------------:|
 |   DE         |         98.7                   |
