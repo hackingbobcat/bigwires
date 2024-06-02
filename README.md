@@ -107,9 +107,7 @@ I next calculated the total emissions rate (sulfur dioxide, nitrogen oxides, and
 
 ![ELEC_EXP_EMM](elec_exp_emm.png)
 
-The states that exported low-emissions electricity in 2022 primarily relied on hydroelectric, solar, and wind power to do so. Recent years have seen a rapid increase in the construction of solar photovoltaic and wind electricity generation in the United States, at both the utility and state levels. Public datasets of the major solar installations and wind farms are available from the USGS. To analyze the locations of these installations compared to the need for non-emissive electricity by state, I first loaded the datasets:
-
-Each data set contains the state in which the facility is located, enabling a visualization of the total wind and solar capacity by state as well as the individual facility locations and capacities:
+The states that exported low-emissions electricity in 2022 primarily relied on hydroelectric, solar, and wind power to do so. Recent years have seen a rapid increase in the construction of solar photovoltaic and wind electricity generation in the United States, at both the utility and state levels. Public datasets of the major solar installations and wind farms are available from the USGS.  Each data set contains the state in which the facility is located, enabling a visualization of the total wind and solar capacity by state as well as the individual facility locations and capacities:
 
 ![USSOLAR](solar_gen_2022.png) 
 
@@ -120,7 +118,7 @@ Each data set contains the state in which the facility is located, enabling a vi
 This analysis illustrated several major findings:
 <ol>
     <li>The existing network of high-voltage electrical transmission lines within the United States is primarily among nearby states.</li>
-    <li>Interconnections between regions in the United States is achieved through high-voltage DC ties, which are at or nearly at capacity.</li>
+    <li>Interconnections between regions in the United States are achieved through high-voltage DC ties, which are at or nearly at capacity.</li>
     <li>There are some states that export electricity and others that import electricity but these states are not always adjacent.  Some states import a large fraction of their electricity, which is not fully supplied by neighboring states.</li>
     <li>There is a wide variety of types of electricity generation in use and different states present widely-varying emissions profiles for the electricity they generate.</li>
     <li>Among the states that exported electricity in 2022, there are widely varying profiles of emissions resulting from that electricity generation.  The electricity from exporting states that is lowest in emissions is scattered throughout the country.</li>
