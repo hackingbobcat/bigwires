@@ -33,14 +33,13 @@ Points #4 and #8 above caught my eye because they speak to an electrical grid th
 2. What are the regional and national needs for electrical transmission in the U.S.?
 3. What other factors (i.e., placement of clean electricity generation facilties and carbon-equivalent emmissions from other electricity generation)  motivate the construction of new high-voltage transmission lines?
 
-Using data from the U.S. Energy Information Administraton (EIA) and other sources, I sought to address these questions using figures, images, and modeling in Python, the full code for which is found in the cells below.  Good analysis is transparent and builds on previous learning.  For that reason, I encourage your careful review to determine whether my analysis is correct and, if so, to build on it to answer other more advanced questions you may have.  The GitHub repository contains a Jupyter notebook with my code, copies of the
+Using data from the U.S. Energy Information Administraton (EIA) and other sources, I sought to address these questions using figures, images, and modeling in Python, the full code for which is found in this repository: <https://github.com/hackingbobcat/bigwires>.  Good analysis is transparent and builds on previous learning.  For that reason, I encourage your careful review to determine whether my analysis is correct and, if so, to build on it to answer other more advanced questions you may have.  The GitHub repository contains a Jupyter notebook with my code, copies of the
 
 <h3>Question 1</h3>
 
 Question #1 focuses on the current state of high-voltage electrical transmission lines in the U.S.  How many are there?  What are their capacities?  Once we know that information, we can analyze about how this compares to the current need, which is Question #2.  
 
 I began by reviewing a primer on the organization of electricity transmission in the United States.[2]  To begin the analysis of existing electricity transmission infrastructure, I loaded a GeoJSON file of all U.S. electrical transmission lines downloaded from the ArcGIS Hub.[3]  I filtered the file to include only those high-voltage transmission lines >345 kV, which number 71,085.
-
 
 Next I plot the high-voltage transmission lines to show high-level information:
 
@@ -76,6 +75,7 @@ I therefore explored the carbon-equivalent emissions of the electricity generati
 
 The top five and bottom five states with the most emissive electricity generation in 2022 were:
 
+<center>
 Top 5 Least Emissive Electricity Generation States:
 
 |    State     |    Percent Emissive Generation |
@@ -96,7 +96,7 @@ Top 5 Most Emissive Electricity Generation States:
 |   RI         |         92.6                   |
 |   IN         |         88.3                   |
 
-
+</center>
 As well as the percentage of electricity generating emissions in each state, the rate of emissions by type is important because not all emissions have the same effect on the environment. Estimates are available for sulfur dioxide (contributes to formation of acid rain), nitrogen oxide (a general term for various nitrogen-oxygen compounds of which NO<sub>2</sub> is a greenhouse gas), and carbon dioxide (a well-known greenhouse gas).  Methane emissions are not captured in the EIA data because the bulk of these emissions are categorized as oil and gas production rather than consumption for electricity generation. For more information on this topic, I recommend a recent study using satellite data to map methane emissions.[6]
 
 ![ELECEMMTYPES](elec_emm_types.png)
