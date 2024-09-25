@@ -78,23 +78,23 @@ The top five and bottom five states with the most emissive electricity generatio
 
 Top 5 Least Emissive Electricity Generation States:
 
-|    State     |    Percent Emissive Generation |
-|:------------:|:------------------------------:|
-|   WA         |         16.9                   |
-|   SD         |         18.7                   |
-|   VT         |         19.6                   |
-|   ID         |         29.8                   |
-|   OR         |         32.7                   |
+|    State  |  Percent Emissive Generation   |
+|:-------:|:-------------------:|
+|   WA   |         16.9         |
+|   SD   |         18.7         |
+|   VT   |         19.6         |
+|   ID   |         29.8         |
+|   OR   |         32.7         |
 
 Top 5 Most Emissive Electricity Generation States:
 
-|    State     |    Percent Emissive Generation |
-|:------------:|:------------------------------:|
-|   DE         |         98.7                   |
-|   WV         |         93.6                   |
-|   KY         |         93.4                   |
-|   RI         |         92.6                   |
-|   IN         |         88.3                   |
+|    State  |  Percent Emissive Generation |
+|:-------:|:------------------------------:|
+|   DE    |         98.7   |
+|   WV    |         93.6   |
+|   KY    |         93.4   |
+|   RI    |         92.6   |
+|   IN    |         88.3   |
 
 
 As well as the percentage of electricity generating emissions in each state, the rate of emissions by type is important because not all emissions have the same effect on the environment. Estimates are available for sulfur dioxide (contributes to formation of acid rain), nitrogen oxide (a general term for various nitrogen-oxygen compounds of which NO<sub>2</sub> is a greenhouse gas), and carbon dioxide (a well-known greenhouse gas).  Methane emissions are not captured in the EIA data because the bulk of these emissions are categorized as oil and gas production rather than consumption for electricity generation. For more information on this topic, I recommend a recent study using satellite data to map methane emissions.[6]
