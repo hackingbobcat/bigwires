@@ -75,7 +75,7 @@ I therefore explored the carbon-equivalent emissions of the electricity generati
 
 The top five and bottom five states with the most emissive electricity generation in 2022 were:
 
-<center>
+
 Top 5 Least Emissive Electricity Generation States:
 
 |    State     |    Percent Emissive Generation |
@@ -96,7 +96,7 @@ Top 5 Most Emissive Electricity Generation States:
 |   RI         |         92.6                   |
 |   IN         |         88.3                   |
 
-</center>
+
 As well as the percentage of electricity generating emissions in each state, the rate of emissions by type is important because not all emissions have the same effect on the environment. Estimates are available for sulfur dioxide (contributes to formation of acid rain), nitrogen oxide (a general term for various nitrogen-oxygen compounds of which NO<sub>2</sub> is a greenhouse gas), and carbon dioxide (a well-known greenhouse gas).  Methane emissions are not captured in the EIA data because the bulk of these emissions are categorized as oil and gas production rather than consumption for electricity generation. For more information on this topic, I recommend a recent study using satellite data to map methane emissions.[6]
 
 ![ELECEMMTYPES](elec_emm_types.png)
