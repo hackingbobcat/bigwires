@@ -107,7 +107,7 @@ I next calculated the total emissions rate (sulfur dioxide, nitrogen oxides, and
 
 ![ELEC_EXP_EMM](elec_exp_emm.png)
 
-The states that exported low-emissions electricity in 2022 primarily relied on hydroelectric, solar, and wind power to do so. Recent years have seen a rapid increase in the construction of solar photovoltaic and wind electricity generation in the United States, at both the utility and state levels. Public datasets of the major solar installations and wind farms are available from the USGS.  Each data set contains the state in which the facility is located, enabling a visualization of the total wind and solar capacity by state as well as the individual facility locations and capacities:
+The states that exported low-emissions electricity in 2022 primarily relied on hydroelectric, solar, and wind power to do so. Recent years have seen a rapid increase in the construction of solar photovoltaic and wind electricity generation in the United States, at both the utility and state levels. Public datasets of the major solar installations and wind farms are available from the USGS.[8,9]  Each data set contains the state in which the facility is located, enabling a visualization of the total wind and solar capacity by state as well as the individual facility locations and capacities:
 
 ![USSOLAR](solar_gen_2022.png) 
 
@@ -142,3 +142,7 @@ These findings, when taken together, paint a picture of an existing need for inc
 [6] <https://www.science.org/doi/10.1126/science.abj4351>
 
 [7] <https://electrek.co/2023/09/29/us-solar-is-booming-heres-the-newly-released-data/>
+
+[8] <https://energy.usgs.gov/uspvdb/>
+
+[9] <https://energy.usgs.gov/uswtdb/>
